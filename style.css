@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(rgb(177, 214, 239), white);
+}
+
+#hero {
+    background-image: url('lagos.avif');
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+}
+
+.main-header {
+  margin-top: 0px;
+  font-size: 50px;
+}
+
+.main-para {
+    font-size: 20px;
+}
+.main{
+    text-align: center;
+    padding-top: 130px;
+}
+
+span {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0px;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+
+.flex-container1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex-container2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.second-header {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h4 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.zoom:hover {
+    transition: transform .2s;
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+    
+}
+
+
+.logo {
+    border: 1px solid burlywood;
+    border-radius: 15px;
+}
+
+.guide {
+    border-bottom: 5px solid burlywood;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around; 
+    width: 500px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #f2f6fa;
+    color: #2b2839;
+    font-size: 15px;
+
+}
+
+.side {
+    padding-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
